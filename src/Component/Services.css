@@ -1,0 +1,29 @@
+
+
+.services-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .services-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .service {
+    margin-bottom: 30px;
+  }
+  
+  .service-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .service-description {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  

@@ -1,0 +1,117 @@
+.linking{
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  
+  .h{
+    font-size: 30px;
+    margin-top: 12px;
+  }
+  
+  form{
+    border: 1px solid black;
+    border-radius: 10px;
+    background:olivedrab;
+    margin-top: 120px;
+    padding: 20px;
+    width: 25%;
+    margin-left: 37%;
+  }
+  input{
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    height: 20px;
+  }
+  label{
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 12px;
+    font-size: 25px;
+    position: relative;
+    top: 3px;
+  }
+  form a{
+    text-decoration: none;
+  }
+  
+  .poda{
+    font-size: 18px;
+    color: white;
+  }
+  
+  .poda:hover{
+    color: rgb(146, 172, 172);
+  }
+
+  .mail{
+    margin-left: 33px;
+    width: 250px;
+    height: 30px;
+  }
+
+  .nam{
+    margin-left: 0px;
+    width: 250px;
+    height: 30px;
+  }
+
+  .pass{
+    margin-left: 5px;
+    width: 250px;
+    height: 30px;
+  }
+  
+  .button1{
+    width: 120px;
+    height: 37px;
+  }
+  
+  .button2{
+    width: 120px;
+    height: 37px;
+  }
+  
+  .button3{
+    margin-top: 25px;
+    width: 120px;
+    height: 37px;
+  }
+  
+  .button1:hover{
+    background-color: rgb(146, 172, 172);
+    font-weight: bolder;
+  }
+  
+  .button2:hover{
+    background-color: rgb(146, 172, 172);
+    font-weight: bolder;
+  }
+  
+  .button3:hover{
+    background-color: rgb(146, 172, 172);
+    font-weight: bolder;
+  }
+
+  .flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .flex-items:hover{
+    background-color: rgb(0,0,0,0.5);
+    font-weight: bolder;
+  }
+
+  .flex-items{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    background-color: rgb(51, 47, 47);
+    width: 25%;
+    color: white;
+    height: 300px;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: 100;
+  }

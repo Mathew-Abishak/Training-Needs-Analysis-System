@@ -1,0 +1,80 @@
+/* ContactUs.css */
+
+.contact-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .contact-us-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-info {
+    margin-bottom: 20px;
+  }
+  
+  .contact-info {
+    margin-bottom: 30px;
+  }
+  
+  .contact-info p {
+    margin-bottom: 10px;
+  }
+  
+  .contact-form h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    position: relative;
+    right: 200px;
+  }
+
+  .contact-form{
+    width: 150%;
+    position: relative;
+    right: 200px;
+  }
+  
+  .mess-label{
+    position: relative;
+    left: 5px;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+  }
+  
+  .submit-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .mess37{
+    height: 30px;
+    width: 80%;
+  }
+  

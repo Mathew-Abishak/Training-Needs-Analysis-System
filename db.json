@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Mathew",
+      "email": "mathew@psr",
+      "password": "1234",
+      "id": "ae2f"
+    },
+    {
+      "id": "e50d",
+      "username": "admin",
+      "email": "admin@psr",
+      "password": "1234"
+    },
+    {
+      "id": "c762",
+      "username": "Prabhu",
+      "email": "Prabhu@psr",
+      "password": "1234"
+    }
+  ],
+  "students": [
+    {
+      "id": "112",
+      "name": "Prabhu",
+      "age": "20",
+      "cgpa": "10",
+      "interest": "Yes",
+      "programming level": "100",
+      "suggested": "Needed",
+      "marks": 10
+    }
+  ]
+}
